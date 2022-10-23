@@ -1,1 +1,1 @@
-# Projeto-6--Classifica-o-de-Imagens
+# Projeto-6--Classificacao-de-Imagens
